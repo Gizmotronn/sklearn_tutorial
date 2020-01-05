@@ -1,4 +1,4 @@
-.. -*- mode: rst -*-
+
 
 Machine Learning for Astronomical Data Analysis
 =================================================
